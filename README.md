@@ -35,6 +35,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | February  20 | [Dave Robinson on tidytext](#2017-february-20) |
 | 2016 | September 29 | [Webinar on Data Loading](#2016-september-29) |
 |      | September 24 | [Live Classes on Apache Spark and Scala](#2016-september-24) |
+|      | September 22 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-22) |
 
 ### 2019 November 19
 
@@ -515,3 +516,37 @@ If you have any additional questions or require further clarification, please, d
 +91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/234320596/)
+
+### 2016 September 22
+
+**Free Live Led-Online Webinar: Apache Spark and Scala**
+
+We would like to cordially invite you to Free Online Webinar on Apache Spark and Scala (http://unbouncepages.com/apachespark-webinar/).
+
+It is Scheduled on 22nd September 2016, 09:00 PM To 10:00 PM IST.
+
+The Following Topics will be Covered:-
+
+TOPICS:
+
+* INTRODUCTION TO BIG DATA
+* INTRODUCTION TO SPARK
+* WHY SPARK
+* SPARK ECOSYSTEM
+* INTRODUCTION TO SCALA
+* PRACTICAL'S ON SPARK
+
+KEY FEATURES OF SPARK:
+
+* Fast Analytics
+* Real-Time Stream Processing
+* Fault Tolerant
+* Powerful and Integrated Data Processing
+* Easy to use
+
+In case you can't make it sign-up anyway, we'll send you the recording.
+
+This promises to be an extremely enriching session and we hope you can make it -Register Now (http://unbouncepages.com/apachespark-webinar/)
+
+If you have any additional questions or require further clarification, please, do not hesitate to Call me on
++91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
