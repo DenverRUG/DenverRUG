@@ -24,6 +24,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2018 November  13 | [Two Talks: 1. Natural Language Processing (NLP); 2. Spark and Sparklyr](#2018-november-13) |
 | 2018 October    9 | [Two Talks: 1. R + TensorFlow: GPU-Accelerated Computing; 2. data.table](#2018-october-9) |
 | 2018 September 11 | [Two Talks: 1. Causal Inference; 2.  ggogleVis](#2018-september-11) |
+| 2018 February  13 | [R packages development](#2018-february-13) |
 
 ### 2019 November 19
 
@@ -212,3 +213,23 @@ Question for discussion: When and why do you use R Notebooks in lieu of
 traditional Markdown documents?
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/253570063/)
+
+### 2018 February 13
+
+**R package development**
+
+Peter DeWitt will be presenting. The focus will be on reproducible reporting,
+documenting, and collaboration. The presentation will first show that relying on
+a script is insufficient for sharing code and having reproducible results. The
+movement from `important-analysis.R` script to an R package will be shown.
+
+Expanding on the R package structure, Peter will provide examples of when
+version control and continuous integration tools not only provide for higher
+quality documentation and work, but can be essential for keeping each developer
+on a team accountable.
+
+We will cover SVN and Git log and blame. Using the testthat package, and using
+CI.
+
+* [Slides and Examples](https://github.com/DenverRUG/2018-02-13-pkgstr-and-ci)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/246924064/)
