@@ -21,6 +21,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2019 August     6 | [Quantified Self: R tools for the analysis of personal data to improve health](#2019-august-6) |
 | 2019 June      25 | [Sparklyr: Connecting R and Apache Spark](#2019-june-25)                                       |
 | 2019 April     23 | [knitr::spin -- A more dynamic approach to dynamic documents](#2019-april-23)                  |
+| 2018 November  13 | [Two Talks: 1. Natural Language Processing (NLP); 2. Spark and Sparklyr](#2018-november-13) |
 
 ### 2019 November 19
 
@@ -138,3 +139,18 @@ This talk will cover the following:
 
 * [Slides and Examples](https://github.com/DenverRUG/2019-04-23-spin)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/260632409/)
+
+### 2018 November 13
+
+**Natural Language Processing (NLP) / Spark and Sparklyr**
+
+1. You down with NLP? (yeah you know me)<br>Richard Vlasimsky with IMIDEX will
+   demonstrate some basic natural language processing concepts and techniques in
+   R using data from the Open Lyrics database on Github.
+
+2. Spark and sparklyr<br> Sean Lopp from Rstudio will go through how to get
+   started with Spark and sparklyr. We'll also discuss what Spark is and where
+   its used, and demo examples of data wrangling, machine learning, and spark
+   streaming.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/255628505/)
