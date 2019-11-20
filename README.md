@@ -29,6 +29,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2017 | December  13 | [Topic TBA](#2017-december-13)                                                                 |
 |      | November   8 | [Two Talks: 1. Webscraping in R; 2. Accessing databases](#2017-november-8)                     |
 |      | October   11 | [Lightning Talks](#2017-october-11)                                                            |
+|      | August    10 | [kerasR: building neural networks (deep and otherwise) in R using keras)](#2017-august-10)     |
 
 ### 2019 November 19
 
@@ -302,31 +303,31 @@ dplyr, but then show how dbplyr extends dplyr to access databases.
 
 ### 2017 October 11
 
-* Danny Inman - NREL
+1. Danny Inman - NREL
    - Using R for selecting efficient production frontiers for local sensitivity
      analysis.
 
-* Sean Lopps - Rstudio
+1. Sean Lopps - Rstudio
    - Group Choice (pick one) 1. RStudio 1.1 Updates (List Viewer, Databases,
      Terminals) 2. Turning R code into RESTful APIs 3. Intro to testthat
 
-* Andy Pickering
+1. Andy Pickering
    - Have you every found yourself saying "It seems hotter/colder than normal
      lately"? I do all the time (maybe I just really like weather). Now you can
      check the data yourself with the WeatherComparer Shiny App. I'll show the
      app and talk a little about some issues I encountered when making it.
 
-* Laura Kinney Metro State
+1. Laura Kinney Metro State
    - discusses analyzing survey results using the tidytext package and built a
      shiny app evaluating Likert scale questions to measure the effectiveness of
      the Colorado Youth at Risk program.
 
-* Peter DeWitt - Neptune
+1. Peter DeWitt - Neptune
    - A quick talk about Non Standard Evaluation with dplyr and how to move away
      from the (depreciated) select_, mutate_, filter_, .... functions.
    - [Slides and Examples](https://github.com/DenverRUG/2017-10-11-non-standard-eval)
 
-* Ed Wolfrum - NREL
+1. Ed Wolfrum - NREL
    - Ed has been using RMarkdown to simplify reporting of data in standard
      formats from multiple Excel files which contain different types of
      analytical chemistry data that must be combined and summarized before being
@@ -334,10 +335,28 @@ dplyr, but then show how dbplyr extends dplyr to access databases.
      learned about using RMarkdown, and also ask for advice in improving the
      current workflow.
 
-* Taylor Larsen is a Data Science Engineer at Health Catalyst and is part of the team responsible for healthcareai
+1. Taylor Larsen is a Data Science Engineer at Health Catalyst and is part of the team responsible for healthcareai
    - healthcareai is an open source machine learning package developed with
      healthcare use cases in mind. We'll do a quick overview of healthcareai's
      current features, implemented use cases, and the community behind the
      package.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/243291874/)
+
+### 2017 August 10
+
+**kerasR: building neural networks (deep and otherwise) in R using keras**
+
+Barton Rhodes will be presenting.
+
+A simple walk-through of creating a convolutional neural network to recognize
+handwritten digits. Examples based on the MNIST and/or notMNIST data sets.
+
+Everyone is welcome to come around 7:00pm and socialize. Barton's talk will
+start around 7:30pm. After the talk we may walk over to Cap City Tavern for food
+and drinks.
+
+* [Slides and Examples](https://github.com/DenverRUG/2017-08-10-keras/tree/master/2017-08-10-keras)
+* [Video of the talk](https://vimeo.com/229361206)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/241913353/)
+
