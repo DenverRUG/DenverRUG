@@ -13,12 +13,13 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 
 ## Past Meetups
 
- | Date             | Topic                                |
- | :--------------- | :----------------------------------- |
- | 2019 November 19 | [Reactivity in Shiny Aps](#20191119) |
- | 2019 October  22 | [1. regexp; 2. larger than memory data packages](#20191022) |
+ | Date              | Topic                                                                         | 
+ | :---------------  | :-----------------------------------                                          | 
+ | 2019 November 19  | [Reactivity in Shiny Aps](#2019-november-19)                                  | 
+ | 2019 October  22  | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22) | 
+ | 2019 September 24 | [Propensity Score Methods](#2019-september-24)                                | 
 
-### 2019 November 19 <a name="20191119"></a>
+### 2019 November 19
 
 **Reactivity in Shiny Aps**
 
@@ -29,7 +30,7 @@ with data tables and plots.
 * [Slides and Examples](https://github.com/DenverRUG/DRUG-Shiny-Demos)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/265318284/)
 
-### 2019 October 22 <a name="20191022"></a>
+### 2019 October 22
 
 **Two Talks**
 
@@ -41,7 +42,9 @@ with data tables and plots.
    work can include large static data sets and/or collaboration when a central
    data base is not an option.
 
-   https://github.com/DenverRUG/R-data-pkgs-drug-20191022
+   * [Slides and Examples](https://github.com/DenverRUG/R-data-pkgs-drug-20191022)
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/265318268/)
 
 ### 2019 September 24
 
