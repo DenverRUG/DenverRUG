@@ -13,19 +13,22 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 
 ## Past Meetups
 
-| Date              | Topic                                                                                          |
-| :---------------  | :-----------------------------------                                                           |
-| 2019 November  19 | [Reactivity in Shiny Aps](#2019-november-19)                                                   |
-| 2019 October   22 | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22)                  |
-| 2019 September 24 | [Propensity Score Methods](#2019-september-24)                                                 |
-| 2019 August     6 | [Quantified Self: R tools for the analysis of personal data to improve health](#2019-august-6) |
-| 2019 June      25 | [Sparklyr: Connecting R and Apache Spark](#2019-june-25)                                       |
-| 2019 April     23 | [knitr::spin -- A more dynamic approach to dynamic documents](#2019-april-23)                  |
-| 2018 November  13 | [Two Talks: 1. Natural Language Processing (NLP); 2. Spark and Sparklyr](#2018-november-13) |
-| 2018 October    9 | [Two Talks: 1. R + TensorFlow: GPU-Accelerated Computing; 2. data.table](#2018-october-9) |
-| 2018 September 11 | [Two Talks: 1. Causal Inference; 2.  ggogleVis](#2018-september-11) |
-| 2018 February  13 | [R packages development](#2018-february-13) |
-| 2018 January   10 | [R Basics](#2018-january-10) |
+|      | Date         | Topic                                                                                          |
+| :--- | :----------- | :--------------------------------------------------------------------------------------------- |
+| 2019 | November  19 | [Reactivity in Shiny Aps](#2019-november-19)                                                   |
+|      | October   22 | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22)                  |
+|      | September 24 | [Propensity Score Methods](#2019-september-24)                                                 |
+|      | August     6 | [Quantified Self: R tools for the analysis of personal data to improve health](#2019-august-6) |
+|      | June      25 | [Sparklyr: Connecting R and Apache Spark](#2019-june-25)                                       |
+|      | April     23 | [knitr::spin -- A more dynamic approach to dynamic documents](#2019-april-23)                  |
+| 2018 | November  13 | [Two Talks: 1. Natural Language Processing (NLP); 2. Spark and Sparklyr](#2018-november-13)    |
+|      | October    9 | [Two Talks: 1. R + TensorFlow: GPU-Accelerated Computing; 2. data.table](#2018-october-9)      |
+|      | September 11 | [Two Talks: 1. Causal Inference; 2.  ggogleVis](#2018-september-11)                            |
+|      | February  13 | [R packages development](#2018-february-13)                                                    |
+|      | January   10 | [R Basics](#2018-january-10)                                                                   |
+| 2017 | December  13 | [Topic TBA](#2017-december-13)                                                                 |
+|      | November   8 | [Two Talks: 1. Webscraping in R; 2. Accessing databases](#2017-november-8)                     |
+|      | October   11 | [Lightning Talks](#2017-october-11)                                                            |
 
 ### 2019 November 19
 
@@ -272,3 +275,69 @@ at 7:30.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/243291958/)
 
+### 2017 December 13
+Topic TBA -- Meetup didn't happen.
+
+### 2017 November 8
+
+Two Talks:
+
+**Webscraping**
+
+Ryan Elmore will introduce an newish R package (ballr, pronounced baller) for
+scraping data from basketball-reference.com (http://basketball-reference.com/).
+He will highlight the use of the rvest package, along with the selectorgadget
+tool. He would love it if others are interested in contributing to this project!
+
+* [ballr on cran](https://cran.r-project.org/package=ballr)
+* [ballr on github](https://github.com/rtelmore/ballr)
+
+**Databases in R**
+
+Matt Pocernich will discuss accessing databases in R. This introductory talk
+will focus on accessing data using a functions found in RODBC, touch a little on
+dplyr, but then show how dbplyr extends dplyr to access databases.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/243291900/)
+
+### 2017 October 11
+
+* Danny Inman - NREL
+   - Using R for selecting efficient production frontiers for local sensitivity
+     analysis.
+
+* Sean Lopps - Rstudio
+   - Group Choice (pick one) 1. RStudio 1.1 Updates (List Viewer, Databases,
+     Terminals) 2. Turning R code into RESTful APIs 3. Intro to testthat
+
+* Andy Pickering
+   - Have you every found yourself saying "It seems hotter/colder than normal
+     lately"? I do all the time (maybe I just really like weather). Now you can
+     check the data yourself with the WeatherComparer Shiny App. I'll show the
+     app and talk a little about some issues I encountered when making it.
+
+* Laura Kinney Metro State
+   - discusses analyzing survey results using the tidytext package and built a
+     shiny app evaluating Likert scale questions to measure the effectiveness of
+     the Colorado Youth at Risk program.
+
+* Peter DeWitt - Neptune
+   - A quick talk about Non Standard Evaluation with dplyr and how to move away
+     from the (depreciated) select_, mutate_, filter_, .... functions.
+   - [Slides and Examples](https://github.com/DenverRUG/2017-10-11-non-standard-eval)
+
+* Ed Wolfrum - NREL
+   - Ed has been using RMarkdown to simplify reporting of data in standard
+     formats from multiple Excel files which contain different types of
+     analytical chemistry data that must be combined and summarized before being
+     reported out. In this lightning talk, Ed will talk about what he has
+     learned about using RMarkdown, and also ask for advice in improving the
+     current workflow.
+
+* Taylor Larsen is a Data Science Engineer at Health Catalyst and is part of the team responsible for healthcareai
+   - healthcareai is an open source machine learning package developed with
+     healthcare use cases in mind. We'll do a quick overview of healthcareai's
+     current features, implemented use cases, and the community behind the
+     package.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/243291874/)
