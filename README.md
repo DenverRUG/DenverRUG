@@ -38,6 +38,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | September 22 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-22) |
 |      | September 17 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-17) |
 |      | August    31 | [Parallel Computing with R](#2016-august-31) |
+|      | June       8 | [Data Visualization](#2016-june-8) |
 
 ### 2019 November 19
 
@@ -607,3 +608,36 @@ If you have any additional questions or require further clarification, please, d
    talk will mostly cover options for explicit (foreach, rxExec)
    parallelization, but we'll also touch upon some options for implicit
    parallelization as well.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/233224728/)
+
+### 2016 June 8
+
+**Data Visualization**
+
+1. **R Powered Dashboards - within the Microsoft Ecosystem**
+   - Phil Wagner - The Cadmus Group
+   - As Microsoft integrates R into an increasing number of applications, it
+     adds to the ways in which R can be used to simplify data processing and
+     sharing… Even within the MS ecosystem. This presentation will show an
+     example of using R with Power BI to quickly create and share interactive
+     dashboards that visualize key information in real-time.
+
+2. **flexdashboard: Easy interactive dashboards for R**
+   - Sean Lopp from R Studio will present on a new package for creating HTML dashboards in R Markdown.
+   - flexdashboard
+     (https://tracking.cirrusinsight.com/aebd1958-7160-4855-9298-d6fbe43a128e/rmarkdown-rstudio-com-flexdashboard)
+     provides a handful of dashboard layouts configured with simple syntax, the
+     barrier to entry couldn't be lower!
+
+3. **(Time permitting) The logic behind ggplot2**
+   - Matt Pocernich - Oracle
+   - Frequently, new users of ggplot2's initial reaction to the package and the
+     relatively complex syntax is "WTF?, Why can't I just do whatever I want?"
+     This talk briefly looks in to the underlying logic behind ggplot graphics
+     as discussed by Wilkinson in The Grammar of Graphics and Wickam's book:
+     ggplot2.  Wilkonson introduces the logic and structure behind translating
+     mathematical ideas into graphics. This is the rigor behind many of the
+     seemingly inflexible features found in ggplot.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/231221482/)
