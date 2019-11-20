@@ -19,6 +19,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2019 October   22 | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22)                  |
 | 2019 September 24 | [Propensity Score Methods](#2019-september-24)                                                 |
 | 2019 August     6 | [Quantified Self: R tools for the analysis of personal data to improve health](#2019-august-6) |
+| 2019 June      25 | [Sparklyr: Connecting R and Apache Spark](#2019-june-25)                                       |
 
 ### 2019 November 19
 
@@ -94,3 +95,14 @@ Analytics & Client Loyalty at Charles Schwab. A few years ago he started
 tracking fitness metrics and realized R had substantial advantages over
 Excel. He also leads the Denver Quantified Self Meet-Up group.
 
+### 2019 June 25
+
+**Sparklyr: Connecting R and Apache Spark**
+
+Ben Hoffman will be presenting an introduction to Sparklyr, an R package to
+working with Apache Spark. Do you have data that is too big to fit into memory?
+Spark will let you work in memory or on disk, cache tables in memory, and use
+machine learning libraries on data that is too big to fit into memory!
+
+* [Slides and Examples](https://github.com/DenverRUG/2019-June-25-Sparklyr)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/262309100/)
