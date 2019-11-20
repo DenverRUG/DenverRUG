@@ -36,6 +36,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2016 | September 29 | [Webinar on Data Loading](#2016-september-29) |
 |      | September 24 | [Live Classes on Apache Spark and Scala](#2016-september-24) |
 |      | September 22 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-22) |
+|      | September 17 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-17) |
 
 ### 2019 November 19
 
@@ -550,3 +551,39 @@ This promises to be an extremely enriching session and we hope you can make it -
 
 If you have any additional questions or require further clarification, please, do not hesitate to Call me on
 +91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/234268498/)
+
+### 2016 September 17
+
+**Live Led-Online Classes: Apache Spark and Scala (Upgraded by Industrial Expert)**
+
+We would like to cordially invite you to Apache Spark and Scala Classes (http://unbouncepages.com/apache-spark-classes/)
+
+Featuring 30 Hours of Led-Live Online Training, Advanced Concepts, Practical Tutorials, Handson Practices, Installation Manuals, Class Recordings, Data Sets, Real-Time Industry Projects, Spark Practical Kit, 24/7 365 days Support and Certificate !
+
+CLICK HERE TO REGISTER FOR FIRST TWO CLASSES @ $10 USD (http://unbouncepages.com/apache-spark-classes/)
+
+The Following Topics will be Covered:-
+
+* Introduction To Sparks & Scala
+* Scala - Essentials And Deep Dive
+* Introducing Traits And Oops In Scala
+* Functional Programming In Scala
+* Spark And Big Data
+* Understanding RDDs
+* Spark Sql
+* Advanced Spark Concepts And Project Discussion
+
+It is Scheduled for 17th September - 09th October, 2016 10:30 AM to 01:30 PM (EDT); (http://unbouncepages.com/apache-spark-classes/)
+
+Saturday & Sunday (Week-End) Batch
+
+In case you can't make it sign-up anyway, we'll send you the recording.
+
+This promises to be an extremely enriching session and we hope you can make it -Register Now (http://unbouncepages.com/apache-spark-classes/)
+
+If you have any additional questions or require further clarification, please, do not hesitate to Call me on
++91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/234147446/)
