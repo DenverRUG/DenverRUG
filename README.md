@@ -56,6 +56,23 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | April     28 | [Using R to forecast power demand of electric customers with distributed energy](#2014-april-28) |
 |      | March      4 | [Go Code Colorado / Building packages using RStudio](#2014-march-4) |
 |      | January   21 | [Using R to Predict an NBA Team's Probability of Making the Playoffs](#2014-january-21) |
+| 2013 | December  18 | [Holiday Happy Hour](#2013-december-18) |
+|      | November  19 | [Applications: Sports and Water](#2013-november-19) |
+|      | September 24 | [Programming with Big Data in R (pbdR)](#2013-september-24) |
+|      | July      23 | [Using Git, RStudio and Github](#2013-july-23) |
+|      | June      18 | [Amazon Cloud and R](#2013-june-18) |
+|      | April     16 | [Quirrel and How it Relates to R](#2013-april-16) |
+|      | March     12 | [Shiny](#2013-march-12) |
+|      | January   29 | [Incorporating C, C++, or Java, with R](#2013-january-29) |
+| 2012 | December  18 | [Holiday Dinner / Happy Hour](#2012-december-18) |
+|      | October   23 | [Graphics for publication, reports, and presentation](#2012-october-23) |
+|      | August    28 | [Knitr is better than Sweave](#2012-august-28) |
+|      | July      17 | [GIS data and Maps in R](#2012-july-17) |
+|      | June      19 | [plyr vs base - wrangling data](#2012-june-19) |
+|      | April     17 | [Bayesian Data Analysis in R](#2012-april-17) |
+|      | March     20 | [RODBC, RgoogleMaps, twitteR, and RCurl with Ed](#2012-march-20) |
+|      | February  21 | [Bayesian statistics in R](#2012-february-21) |
+|      | January   25 | [R and Big Data - Combined Meetup](#2012-january-25) |
 
 ### 2019 November 19
 
@@ -1079,3 +1096,289 @@ describing the data sources, R tools to obtain the data and build the model, and
 a simple shiny app.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/158353992/)
+
+### 2013 December 13
+
+**Holiday Happy Hour / Dinner**
+
+As in previous years - there will be no formal Denver R User's meeting this
+month. Instead - we are just headed straight to a bar. For a change, we will be
+meeting at the Denver Beer Company on Wednesday December 18th at 6 pm.
+(denverbeerco.com).
+
+This is located at 1695 Platte Street. For a more familiar reference point, this
+is two blocks north of REI's Denver store.
+
+Join us if you can. Otherwise, happy holidays and see you next year.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/154860382/)
+
+### 2013 November 19
+
+**Applications: Sports and Water**
+
+November's meetup will have a little different flavor. In contrast to talks
+focused on a specific package or technical topic, the November talks will focus
+more on interesting data, applications and analysis problems. Our speakers,
+Kevin Goodfellow from Sports Data Hub and Steve Malers from the Open Water
+Foundation, will provide an overview of their respective organizations, analysis
+capabilities and challenges. There will be ample time for questions, comments,
+ideas and feedback. Each topic will be about 30 minutes, so longer than a
+lightning talk - but shorter than a full talk. Potentially, this could evolve
+into a type of short presentation that allow us to share at a higher level what
+we do (or would like to do) with R, in contrast to talks which discuss how we do
+things in R.
+
+Kevin Goodfellow will discuss: A brief overview of the current state of sports
+analytics with a specific example of the potential new uses of player
+positioning data.
+
+Steve Malers will discuss: "Transparency in Water Resources - Moving to Open
+Source Software"
+
+The Open Water Foundation (OWF) is a new nonprofit social enterprise that
+focuses on providing an open source software platform to help organizations make
+better decisions about water resources. An overview will be provided
+illustrating the need for this approach and insight into the OWF startup. The
+technology landscape will be discussed, including challenges and opportunities
+for technologists and entrepreneurs.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/148491062/)
+
+### 2013 September 24
+
+**Programming with Big Data in R (pbdR)**
+
+Speaker: Ryan Elmore
+
+In this talk I will give a brief introduction to the pbdR (Programming with Big
+Data in R) project. I will focus the initial part of the talk on several
+important packages including pbdDMAT, pbdBASE, and pbdMPI. Next, I will
+highlight a few examples that highlight some of the key advantages to using
+pdbR.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/139458862/)
+
+### 2013 July 23
+
+**Using Git, RStudio and Github**
+
+This is a beginner/ intermediate talk which will discuss the following.
+
+1. Git - a version control system. If you don't know what this is - you desperately need to find out. If you know, you may be bored.
+2. Rstudio - there are many ways to use R and Rstudio is but one. Since Rstudio plays so nicely with Git ( and svn) this talk will demonstrate Git in Rstudio.
+3. Github - sharing is caring. Github provides a way to share R code with others. The devtools packages in R facilitates easy sharing of code. Github is used extensively on many of the posts on R-bloggers.com
+
+Some background information on this topics can be found at
+
+* Git and Github - https://github.com/
+* Rstudio - http://www.rstudio.com/
+* Git and Rstudio - http://www.rstudio.com/ide/docs/version_control/overview
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/128863112/)
+
+### 2013 June 18
+
+**Amazon Cloud and R**
+
+Dave Astling will be presenting on setting up an Amazon server instance and the
+pros and cons of such a set up. Running R on the instance will be noted as well.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/121867722/)
+
+### 2013 April 16
+
+**Quirrle and How it Relates to R**
+
+In this Meetup, the Precog Developer Evangelist will talk about a
+statistically-oriented query language called “Quirrel” and its similarities and
+differences with R. While Quirrel is neither as mature as R nor situated in such
+a robust ecosystem, it is easier to learn and simple to deploy results. In
+addition to some basic functionality, a predictive model will be created and
+discussed.
+
+About Quirrel: Quirrel, sometimes referred to as the “R for big data” query
+language, is a new language designed specifically around modern needs for
+analyzing large amounts of semi-structured data. The language finds a common
+ground between the need to express highly complex analytical calculations, and
+the need to support efficient and automatic parallelization and distribution
+across large clusters of data nodes. Learn more (http://quirrel-lang.org/)
+
+About Precog: Precog is a data science platform for developers and data
+scientists to perform advanced analytics on semi-structured data. Learn more
+(http://www.precog.com/products/precog)
+
+Speaker: Nathan Lubchenco, Developer Evangelist, Precog
+
+Nathan studied Logic, Computation and Methodology at Carnegie Mellon University
+where his thesis analyzed lending patterns in Kiva microfinance loans. Nathan
+learned Quirrel while sailing on the Semester at Sea maymester voyage and has
+been a Precog fan ever since. It is Nathan’s job as Developer Evangelist is to
+make customers rave about Precog by creating useful and accessible documentation
+and tutorials.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/106221902/)
+
+### 2013 March 12
+
+**Shiny**
+
+Matt Pocernich and Alex Woolford will be giving a talk on Shiny.
+
+Shiny is a package developed by the very clever people at Rstudio - allows one
+with little or no knowledge of html or javascript to develop a browser based -
+interactive application using R. By interactive, we mean a user can send some
+inputs to R via buttons, sliders, menus or boxes and the inputs are immediately
+reflected in the R output - typically tables or figures. This talk will describe
+some of the basics functions in the packages and demonstrate there use. For a
+nice overview see http://www.rstudio.com/shiny/.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/104036792/)
+
+### 2013 January 29
+
+**Incorporating C, C++, or Java, with R**
+
+Steve Sullivan will be presenting on:
+
+Enhancing R with C, C++ and Java
+
+The statistical language R has a myriad of features, yet for some
+problems it can be too slow. Enhancing R's capabilities with a
+compiled language can improve performance -- often by a factor of
+100 to 1000. I look at five ways to improve R's performance.
+
+Enhancing R with C or C++:
+
+The builtin .C interface The builtin .Call interface The builtin .External interface The Rcpp package
+Enhancing R with Java:
+
+The rJava package
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/99150192/)
+
+### 2012 December 18
+
+**Holiday Dinner/Happy Hour**
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/93087542/)
+
+### 2012 October 23
+
+**Graphics for publication, reports, and presentation**
+
+Matt Pocernich will be presenting on production of graphics for publications,
+reports, and presentations. Just because it looks good and seems to be the right
+graphic in the R windows doesn't mean the image will work well elsewhere.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/86384932/)
+
+### 2012 August 28
+
+**Knitr is better than Sweave**
+
+if you've been to a past meetup, you've probably heard Peter tell us about the
+virtues of Sweave, a framework+markup language for making reproducible reports.
+Peter has switched his allegiance from Sweave to Knitr for these projects, and
+is going to tell us why.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/71871612/)
+
+### 2012 July 17
+
+**GIS data and Maps in R**
+
+Cary Miller, our speaker, says:
+"Did you ever wonder how to plot GIS data in R? How to make great maps
+filled with useful detail? Bewildered by the enormous number of options
+for mapping in R? Me too. Therefore I will be learning all about it
+during the next few weeks so I can explain it to you. I will be
+investigating ggmap along with any other interesting packages and
+reporting my discoveries."
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/70661952/)
+
+### 2012 June 19
+
+**plyr vs. base - wrangling data**
+
+Matt Parker will talk about wrangling data using the plyr package and will
+compare the methods to how you might do the same thing using base functions. If
+you have a specific example you'd like to see, preferrably working already in
+plyr or base, please contact Matt by June 7th.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/67269522/)
+
+### 2012 April 17
+
+**Bayesian Data Analysis in R**
+
+Speaker: Joshua French, Assistant Professor of Statistics at UC-Denver
+
+Title: Bayesian Data Analysis in R
+
+Abstract: Bayesian statistical methods are becoming increasingly popular for
+data analysis and inference. These methods often rely heavily on computers and
+simulation, and R statistical software is a natural choice for Bayesian
+analysis. In this presentation you will be introduced to Bayesian methods and
+computation, followed by an applied example in which we will actually perform
+Bayesian data analysis. The analysis will be performed first using pure R, using
+the Rcpp package to easily reimplement the analysis in C++ (which can
+dramatically reduce computation time), and finally using the free and
+open-source OpenBugs and JAGS statistical software packages directly from R. The
+presentation will conclude with a summary of R packages which may be helpful in
+performing Bayesian data analysis.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/51862892/)
+
+### 2012 March 20
+
+**RODBC, RgoogleMaps, twitteR, and RCurl with Ed**
+
+Ed Wolfrum will talk about several packages including RODBC, RgoogleMaps, and
+TwitteR. Implicit to the latter two is the RCurl package which handles http/ftp
+requests. Possibly more details will follow.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/54166082/)
+
+### 2012 February 21
+
+**Bayesian statistics in R**
+
+This talk will be a basic introduction to Bayesian estimation through a serious
+of illustrations with a linear modelling problem. In particular, a little of the
+mathematics and a lot of the estimation behind the Metropolis-Hastings algorithm
+and Gibbs sampling (the two most common Bayesian estimation methodologies) will
+be compared to OLS and maximum likelihood (two common frequentist approaches).
+
+Ben Domingue is currently finishing a PhD at CU-Boulder in the School of
+Education. He has worked in a variety of fields including psychometrics,
+value-added and growth modeling, genome-wide studies, and social network
+analysis.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/28387991/)
+
+### 2012 January 25
+
+**R and Big Data - Combined Meetup**
+
+Using R with Hadoop - Nathan will present an example of using R to write a
+Hadoop streaming job for mapping scores to vectors of data. We tested on 34.5M
+records stored on the Hadoop cluster. This talk will cover:
+
+- setting up a Hadoop streaming job
+- using Rscript to run R on the command line
+- writing R code that reads from stdin
+- adjusting the number of mappers to change performance
+- our optimizations to the R code so far
+- our plans for future tests
+
+About the speakers:
+
+Nathan McIntyre is a member of Return Path's analytics team. He started at
+Return Path as a Software Engineer in 2008. Nathan is a member of both the
+Denver R User Group and the Boulder/Denver BigData Meetup. He is an avid runner
+and dancer.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/47375072/)
+
