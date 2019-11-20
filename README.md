@@ -33,6 +33,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | June      28 | [Introduction to the CPR package and Programmatic Construciton of Calls](#2017-june-28)        |
 |      | March     28 | [RStudio Tidyverse](#2017-march-28)                                                            |
 |      | February  20 | [Dave Robinson on tidytext](#2017-february-20) |
+| 2016 | September 29 | [Webinar on Data Loading](#2016-september-29) |
 
 ### 2019 November 19
 
@@ -446,3 +447,35 @@ writes about R, statistics and education on his blog Variance Explained, as well
 as on Twitter as @drob.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/237219350/)
+
+### 2016 September 29
+
+**Attend Free Live Webinar On Data Loading Techniques in Hadoop**
+
+We would like to cordially invite you to DATA LOADING TECHNIQUES IN HADOOP (http://unbouncepages.com/free-webinar-haoop-dataloading/)What you'll Learn:
+
+* INTRODUCTION TO BIG DATA
+* CHALLENGES TO BIG DATA
+* INTRODUCTION TO HADOOP
+* HADOOP CHARACTERISTICS AND HDFS
+* DATA LOADING TECHNIQUES
+
+KEY FEATURES OF SPARK:
+
+* FAST ANALYTICS
+* REAL-TIME STREAM PROCESSING
+* FAULT TOLERANT
+* POWERFUL AND INTEGRATED DATA PROCESSING
+* EASY TO USE
+
+It is Scheduled for 29th September 2016, Thursday 09:00 PM To 10:00 PM IST.
+(http://unbouncepages.com/free-webinar-haoop-dataloading/)
+
+In case you can't make it sign-up anyway, we'll send you the recording.
+
+This promises to be an extremely enriching session and we hope you can make it -Register Now (http://unbouncepages.com/free-webinar-haoop-dataloading/)
+
+If you have any additional questions or require further clarification, please, do not hesitate to Call me on
++91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/234437955/)
