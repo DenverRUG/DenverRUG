@@ -52,6 +52,10 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | November  18 | [testit, testthat and/or testing in general](#2014-november-18) |
 |      | August     5 | [Creating and approachable data product with R using shiny and rCharts / Plus +](#2014-august-5) |
 |      | July       1 | [dplyr: the next iteration of plyr](#2014-july-1) |
+|      | May       21 | [Joint Big Data Meetup: learn what's new in Mahout with Ted Dunning](#2014-may-21) |
+|      | April     28 | [Using R to forecast power demand of electric customers with distributed energy](#2014-april-28) |
+|      | March      4 | [Go Code Colorado / Building packages using RStudio](#2014-march-4) |
+|      | January   21 | [Using R to Predict an NBA Team's Probability of Making the Playoffs](#2014-january-21) |
 
 ### 2019 November 19
 
@@ -955,3 +959,123 @@ some of these functions every day.
 * [Silge and Examples](https://github.com/DenverRUG/2014-07-01-dplyr-demo)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/187331772/)
 
+### 2014 May 21
+
+**Joint Big Data Meetup: Learn what's new in Mahout with Ted Dunning**
+
+This month are co-hosting an event with the Boulder/Denver Big Data Meetup. ( Co
+-hosting might be the wrong word since Andy Sautins from Big Data has done all
+the work in arranging the speaker and the space. Thanks Andy.) Their listing of
+this event can be found here:
+http://www.meetup.com/Boulder-Denver-Big-Data/events/175837302/ . Feel free to
+rsvp to either site, but preferably not both.
+
+Also note that his event is occurring in Boulder - not at Galvanize in Denver.
+
+Text from the Big Data site.
+
+>We are thrilled to have Ted Dunning come and back and present to the group about
+>what is new in the Apache Mahout scalable machine learning library. If you don't
+>know Ted he has been instrumental in getting this meetup off the ground and has
+>presented to us in the past. He is a fantastic, knowledgeable and engaging
+>presenter. I learn something new about how to use big data technologies every
+>time I hear Ted speak. Note that we are also excited to work with the Denver R
+>Users group on this meetup. The meetup is a bit far north for them so if you
+>talk with anyone from that group try to encourage them to come. They are an
+>impressive group and there are great new conversations that happen when the
+>groups get together.
+
+About the presentation
+
+This is where you can help shape the presentation. Ted has a ton of knowledge on
+Mahout. Right now he is shaping his presentation. If you have something you'd
+like to see just add a comment. Areas that look like they will be discussed as
+of now are:
+
+* Innovations to recommendations - Best practices, how to extract the riht data,
+  and the innovative use of search technology to deploy a mahout recommender,
+  with some deeper technical advice about multi-modal and cross recommendation.
+* Anomaly Detection and more - Some new work in anomaly detection, t-digest and
+  a little touch of deep-learing.
+* Big new for Mahout - I think this is interesting. There are big changes in
+  Apache Mahout taking place. Differences i classification and overall speed;
+  also a move to build access to deep learning and R. About the presenter
+
+Ted Dunning - Chief Application Architect - MapR Ted Dunning has been involved
+with a number of startups with the latest being MapR Technologies where he is
+Chief Application Architect working on advanced Hadoop-related technologies. He
+is also a PMC member for the Apache Zookeeper and Mahout projects. Opinionated
+about software and data-mining and passionate about open source, he is an active
+participant of Hadoop and related communities and loves helping projects get
+going with new technologies.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/181986202/)
+
+### 2014 April 28
+
+**Using R to forecast power demand of electric customers with distributed energy**
+
+Speaker: Jonathon Nelson
+
+As an energy nerd and new R programmer, Jonathan Nelson has been honing his R
+skills through a project that mines raw net-metered customer billing data to
+predict demand for backup power from customers with distributed solar energy.
+Most electric utilities meter their solar customers on a net basis, recording
+just the difference between consumption and production from distributed
+generation. This way, customers only pay for their grid usage that’s in excess
+of their production at the end of the billing period (usually one month). While
+this has been an effective means to incentivize retail solar customers, it
+doesn’t allow the utility to see the actual energy demand behind the meter when
+the solar is producing - they just see the difference. It’s not until a
+variability event such as shading due to intermittent cloud cover that the
+utility can see the behind the meter demand as the generation drops off and the
+customer jumps back onto the grid for backup power. These variability events
+produce instantaneous spikes in demand for grid power and at a large scale are
+difficult for a utility to forecast and manage. Jonathan’s model can selectively
+mine out these variability events to uncover the demand that is likely happening
+behind the meter at any given moment. Then with this analysis the utility could
+better forecast the need for backup reserves and more effectively integrate
+larger penetrations of distributed energy onto the grid.
+
+The model is best characterized as time series data analysis. Packages used so
+far in the model include: doBy, fields, chron, and lattice. The model deals with
+manipulation of datetime objects, subsetting, creating dynamic time sequences
+with settable intervals, creating sampling distributions to compute summary
+statistics and interval estimates, etc.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/176055352/)
+
+### 2014 March 4
+
+**Go Code Colorado / Building packages using Rstudio**
+
+Speaker: Bryan Gryth, from Go Code Colorado, will talk about this new project
+and how to become involved. Go Code Colorado is an apps challenge designed to
+make public data more accessible and user-friendly. Teams of developers and
+entrepreneurs across the state will compete to solve business problems and grow
+our economy, by building apps that will help Colorado companies thrive.
+Build apps. Build business. Build Colorado."
+
+(http://gocode.colorado.gov/ )
+
+Speaker: Matt Pocernich "Building Packages in R Studio". Creating a R package
+from scratch can be a bit daunting - requiring a specific set of folders, files
+and compiling. This short talk will focus on creating a package using the
+functionality of Rstudio to avoid much of annoying details and minutia - which
+makes one reluctant to put functions into a package in the first place.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/165888912/)
+
+### 2014 January 21
+
+**Using R to Predict an NBA Team's Probability of Making the Playoffs**
+
+On January 21st -- the night of this meetup -- the Denver Nuggets will have
+played 40 games. At this point in the season, most people who follow the Nuggets
+want to know if they are likely to make the playoffs or if it's time to focus on
+the draft and next season. In this talk, I will describe using R to model the
+Nuggets' playoff probability at any point in the season. The emphasis will be on
+describing the data sources, R tools to obtain the data and build the model, and
+a simple shiny app.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/158353992/)
