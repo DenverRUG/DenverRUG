@@ -29,7 +29,7 @@ Kyle Bartsch, @kbartsch, presented on the various ways to configure and debug
 reactivity in Shiny apps, from simple user input to dynamic user interaction
 with data tables and plots.
 
-* [Slides and Examples](https://github.com/DenverRUG/DRUG-Shiny-Demos)
+* [Slides and Examples](https://github.com/DenverRUG/2019-11-19-DRUG-Shiny-Demos)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/265318284/)
 
 ### 2019 October 22
@@ -44,7 +44,7 @@ with data tables and plots.
    work can include large static data sets and/or collaboration when a central
    data base is not an option.
 
-   * [Slides and Examples](https://github.com/DenverRUG/R-data-pkgs-drug-20191022)
+   * [Slides and Examples](https://github.com/DenverRUG/2019-10-22-R-data-pkgs)
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/265318268/)
 
@@ -95,6 +95,8 @@ Analytics & Client Loyalty at Charles Schwab. A few years ago he started
 tracking fitness metrics and realized R had substantial advantages over
 Excel. He also leads the Denver Quantified Self Meet-Up group.
 
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/263490698/)
+
 ### 2019 June 25
 
 **Sparklyr: Connecting R and Apache Spark**
@@ -104,5 +106,5 @@ working with Apache Spark. Do you have data that is too big to fit into memory?
 Spark will let you work in memory or on disk, cache tables in memory, and use
 machine learning libraries on data that is too big to fit into memory!
 
-* [Slides and Examples](https://github.com/DenverRUG/2019-June-25-Sparklyr)
+* [Slides and Examples](https://github.com/DenverRUG/2019-06-25-Sparklyr)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/262309100/)
