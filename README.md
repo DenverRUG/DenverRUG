@@ -34,6 +34,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | March     28 | [RStudio Tidyverse](#2017-march-28)                                                            |
 |      | February  20 | [Dave Robinson on tidytext](#2017-february-20) |
 | 2016 | September 29 | [Webinar on Data Loading](#2016-september-29) |
+|      | September 24 | [Live Classes on Apache Spark and Scala](#2016-september-24) |
 
 ### 2019 November 19
 
@@ -479,3 +480,38 @@ If you have any additional questions or require further clarification, please, d
 +91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/234437955/)
+
+### 2016 September 24
+
+**Live Classes on Apache Spark and Scala (Upgraded by industrial experts)**
+
+We would like to cordially invite you to Apache Spark and Scala Classes (http://unbouncepages.com/apachespark-and-scala-class/)
+
+Featuring 30 Hours of Led-Live Online Training, Advanced Concepts, Practical
+Tutorials, Hands-on Practices, Installation Manuals, ClassRecordings, Data Sets,
+Real-Time Industry Projects, Vitual Machine Kit, Hadoop Practical Course, 24/7
+365 days Support and Certificate !
+
+The Following Topics will be Covered:
+
+* Introduction To Sparks & Scala
+* Scala - Essentials And Deep Dive
+* Introducing Traits And Oops In Scala
+* Functional Programming In Scala
+* Spark And Big Data
+* Understanding RDDs
+* Spark Sql
+* Advanced Spark Concepts And Project Discussion
+
+It is Scheduled for 24th September - 30th October, 2016 10:30 AM to 01:30 PM (EDT); (http://unbouncepages.com/apachespark-and-scala-class/)
+
+Saturday & Sunday (Week-End) Batch
+
+In case you can't make it sign-up anyway, we'll send you the recording.
+
+This promises to be an extremely enriching session and we hope you can make it -Register Now (http://unbouncepages.com/apachespark-and-scala-class/)
+
+If you have any additional questions or require further clarification, please, do not hesitate to Call me on
++91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/234320596/)
