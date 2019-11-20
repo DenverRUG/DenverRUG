@@ -37,6 +37,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | September 24 | [Live Classes on Apache Spark and Scala](#2016-september-24) |
 |      | September 22 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-22) |
 |      | September 17 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-17) |
+|      | August    31 | [Parallel Computing with R](#2016-august-31) |
 
 ### 2019 November 19
 
@@ -587,3 +588,22 @@ If you have any additional questions or require further clarification, please, d
 +91 7022 55 1245 or send me an Email (brajesh@kratoes.com).
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/234147446/)
+
+### 2016 August 31
+
+**Parallel Computing with R**
+
+1. **SparkR** Jeremy Jackson, a Senior Developer at The Cadmus Group, Inc., will
+   talk about using Vagrant to provision a Spark + R + RStudio development
+   cluster on a personal computer, some of the more useful analysis features of
+   SparkR for parallel computing, and different options for scaling your
+   development cluster to the cloud.
+
+1. **GPU Computing in R** A Focus on the gpuR Package Matt Hergott
+
+1. **foreach and rxExec** Michael Helbraun - Revolutions Analytic.  Generally, R
+   is in memory and single threaded. To scale to larger data and/or more
+   computationally intensive problems parallelization becomes important; this
+   talk will mostly cover options for explicit (foreach, rxExec)
+   parallelization, but we'll also touch upon some options for implicit
+   parallelization as well.
