@@ -23,6 +23,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2019 April     23 | [knitr::spin -- A more dynamic approach to dynamic documents](#2019-april-23)                  |
 | 2018 November  13 | [Two Talks: 1. Natural Language Processing (NLP); 2. Spark and Sparklyr](#2018-november-13) |
 | 2018 October    9 | [Two Talks: 1. R + TensorFlow: GPU-Accelerated Computing; 2. data.table](#2018-october-9) |
+| 2018 September 11 | [Two Talks: 1. Causal Inference; 2.  ggogleVis](#2018-september-11) |
 
 ### 2019 November 19
 
@@ -186,3 +187,28 @@ history of data.table, basic and some advance syntax and a comparison with
 dplyr.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/255157224/)
+
+### 2018 September 11
+Two talks:
+
+**CausalImpact Package**
+Karen Kazor - Oracle Data Cloud
+
+CausalImpact is a package contributed by the folks at Google to estimate the
+effect of a treatment or intervention on a individuals observed over time. In
+online advertising a common example is estimating additional clicks or other
+actions attributed to a campaign. Karen will discuss some of the ins and outs of
+this package.
+
+**Hans Rosling - Truthfulness and googleVis**
+Matt Pocernich - Oracle Data Cloud
+
+Inspired by Hans Rosling's book - Factfulness, I will re-visit the googleVis
+package which was inspired by the very cool animated plots used in his 2006 Ted
+Talk. This talk will illustrate some the topics from recent book using goolevis
+and ggplot.
+
+Question for discussion: When and why do you use R Notebooks in lieu of
+traditional Markdown documents?
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/253570063/)
