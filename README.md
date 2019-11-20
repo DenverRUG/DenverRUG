@@ -39,6 +39,19 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | September 17 | [Live Led-Online Webinar: Apache Spark and Scala](#2016-september-17) |
 |      | August    31 | [Parallel Computing with R](#2016-august-31) |
 |      | June       8 | [Data Visualization](#2016-june-8) |
+|      | March     30 | [Lightning Talks](#2016-march-30) |
+|      | January   13 | [Shiny and Markdown](#2016-january-13) |
+| 2015 | November  10 | [Office Hours/Caret](#2015-november-10) |
+|      | September 23 | [Operationalizing R with Azure Machine Learning / EBH Update](#2015-september-23) |
+|      | August     6 | [The sqldf package and making a new career in data analytics](#2015-august-6) |
+|      | June      18 | [Building Packages in R - a couple options](#2015-june-18) |
+|      | April     16 | [Websites with Github & Rstudio/Continuous Delivery Systems](#2015-april-16) |
+|      | March     31 | [Agile and other Programming Practices](#2015-march-31) |
+|      | January    6 | [RRO - Revolution's new enhanced open source distribution](#2015-january-6) |
+| 2014 | December  18 | [Holiday Happy Hour and Dinner](#2014-december-18) |
+|      | November  18 | [testit, testthat and/or testing in general](#2014-november-18) |
+|      | August     5 | [Creating and approachable data product with R using shiny and rCharts / Plus +](#2014-august-5) |
+|      | July       1 | [dplyr: the next iteration of plyr](#2014-july-1) |
 
 ### 2019 November 19
 
@@ -641,3 +654,304 @@ If you have any additional questions or require further clarification, please, d
      seemingly inflexible features found in ggplot.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/231221482/)
+
+### 2016 March 30
+
+**Lightning Talks**
+
+* A series of short talks about favorite packages and functions. We have several speakers lined up and room for one more.
+* Topics and Speakers
+  * Kellie Keeling - Visualizing Statistical Results
+  * Ed Wolfrum - Clever aggregate()
+  * Bruce Bugbee - Time Series and Shiny
+  * Peter DeWitt - Formulas and recursion
+  * Ryan Elmore - horse racing and handicaps
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/229857592/)
+
+### 2016 January 13
+
+**Shiny and Markdown**
+
+Sean Lopp - RStudio
+
+Have you created a great analysis in R but aren't sure how to share it? Looking
+for a way to deploy R across your organization? I'll be discussing some of the
+recent features of R Markdown (including parameterized reports and embedding
+htmlwidgets). I'll also discuss Shiny and the different ways to deploy and scale
+Shiny applications (including how to handle applications that rely on
+databases). Finally, I'll demo some of the new collaboration features built into
+our commercial IDE, and give a sneak peak at an upcoming product: RStudio
+Connect.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/227361477/)
+
+### 2015 November 10
+
+**Office Hours/Caret**
+
+Office Hours - 6:30 till 8
+
+This meeting we want to try something different. Come a bit early to ask or
+answer R questions. Bring your computers. All questions are welcome. Depending
+on the question - individual help might be in order or we can throw the question
+out to the group. Normally - these types of discussions happen later - after the
+talk or at the bar. At 8 there will be a more formal presentation.
+
+Caret - Classification And REgression Training - Package
+
+by Matt Pocernich
+
+One of R's strengths is that it offers so many options for statistical and
+machine learning techniques. As a consequence - it can be difficult to learn,
+fairly evaluate and compare different models. The caret package attempts to
+address some of these issues by providing a common interface to run over 150
+models. Additionally, utilities are provided to partition datasets for use in
+cross validation, tune models (if appropriate) and provide neat graphical and
+tabular output.
+
+Caret will be run and compare several models to predict outcome using the
+Wisconsin Breast Dataset
+
+More information about caret can be found here.
+http://topepo.github.io/caret/index.html
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/226179728/)
+
+### 2015 September 23
+
+**Operationalizing R with Azure Machine Learning / EBH Update**
+
+Using your R skills you've built a killer predictive model that has the power to
+transform your organization and take it to the next level. Now how do you
+operationalize that model so it can be integrated with and leveraged by line of
+business applications? Meet Microsoft's Azure Machine Learning service. Azure ML
+gives R developers and data scientists the ability to perform one click
+publishing of their R models and make them available for consumption as simple
+REST web services for developers across your organization. You can model, tune,
+test, deploy and score unseen data, on-demand without any acquisition or setup
+of infrastructure and you only pay for what you use. We'll present how you can
+get started using your R skills with this new machine learning service.
+
+Bio
+
+Chris McHenry is a software developer living in the foothills of Colorado. He is
+currently the VP of Technology for Integro, an industry leading software and
+services provider of Information Governance solutions. His main focus is on the
+development of an innovative Information Governance software platform. He leads
+a high caliber team of Dev and QA professionals using Scrum, Visual Studio, and
+TFS. His current passion (obsession?) is applying Machine Learning technology to
+improve the user experience with everyday software applications. He has a
+patented design leveraging classification technology with user oversight to
+better manage and defensibly dispose of content. His favorite new technologies
+are the R programming language and Microsoft's Azure Machine Learning service.
+He has deep expertise designing and developing software products on top of email
+platforms and enterprise content management systems such as Microsoft Exchange,
+Lotus Domino, Sharepoint, OneDrive, IBM FileNet, and others.
+
+Every Byte Helps (aka. Data for Good) - 10 minute update
+
+Last October Ryan Elmore and Matt Pocernich discussed the idea of starting a
+Data for Good/ DataKind type group here in Denver - focusing on statistics. They
+will take a few minutes to summarize the progress ( and in some areas lack of
+progress) in getting the group started. Additionally, we would like to introduce
+the next project to be tackled by the group - the creation and analysis of a
+survey of food waste in Denver - conducted in support of Denver Food Rescue.
+
+* [Slides and Examples](http://www.cmchenry.com/operationalizing-r-with-azure-ml)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/224926896/)
+
+### 2015 August 6
+
+**The sqldf package and making a new career in data analytics**
+
+Ryan Jolicoeur: I am a novice R programmer but would love to discuss both the
+sqldf package as well as making a career change to data analytics after working
+in finance and banking for 9 years.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/223487308/)
+
+### 2015 June 18
+
+**Building Package in R - a couple options**
+
+R's 6,000+ packages are a key part of it's allure. The talks in this meeting
+will show a few way's to create packages either for internal or sharing on CRAN.
+
+Speaker: Peter DeWitt
+
+I will start with a few "helper" functions, come wrappers that many R users may
+be be familiar with. Next I will show how to set up an R package,
+devtools::create(), and move the helper functions into the package with
+documentation via roxygen2. There will be a bonus slide for adding compiled code
+via RCPP in the package can be put at the end the of the talk.
+
+Matt Pocernich
+
+Since there is nearly always more than one way to do things in R, I will show
+how to use R Studio to build a package.
+
+* [Slides and Examples](https://github.com/DenverRUG/2015-06-18-drug-r-pkg-talk)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/222705398/)
+
+### 2015 April 16
+
+
+**Creating websites with Rstudio and hosting using github**
+
+Speaker: Matt Pocernich
+
+Using R Studio, we will show how to create a html document, saves the project to
+github and hosts the website on github. While any html document created in
+Markdown language could be used to create a website, here we will illustrate the
+process using a Rpres presentation. This talks build on the earlier R Meetup
+topics dealing with Rstudio and git and github. Used all together, one has
+another very slick and easy way to share results.
+
+**Reproducible Results with Continuous Delivery Systems**
+
+Speaker: Kurt Harriger
+
+Ever try to reproduce someones results only to spend hours figuring out the
+right packages and other required system dependencies such as java or python?
+Have you ever needed to reproduce *your own* work on another computer? Software
+engineers have developed many tools and processes to collaborate, share their
+code, and most importantly their results, reliably and consistently across
+multiple machines, environments, and platforms. Continuous Delivery Systems are
+one such tool that give you and your team the freedom to make those last minute
+word changes or add that one additional plot without fear of breaking something
+or making the results irreproducible. Kurt Harriger is a data engineer with
+Rally using big data technologies to gather and summarize system, performance,
+and usage metrics from our hosted agile lifecycle management product suite. This
+provides leadership, sales, and product teams the data they need to make
+informed decisions and prioritize resources more effectively. Kurt has been a
+systems and software engineer for more than 15 years and brings process insights
+from the engineering organization. Rally is the leader in agile transformations
+-- providing the training and tools to transform your organization into one that
+innovates, leads, adapts, and delivers.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/221446067/)
+
+### 2015 March 31
+
+**Agile and other Programming Practices**
+
+The topic of this meeting is programming practices such as Agile, Extreme
+Programming, waterfall, scrums, pairs programming, rapid development, etc. I
+realize these terms are not mutually exclusive topics- but rather than get into
+semantics - we will define the topic as any method you use to efficiently and
+accurately get a concept coded into an analysis - working either alone or as
+part of a team.
+
+Part I
+
+Christen McLemore - Agile Coach, Rally Software
+
+Agile development is based on a set of principles and practices that work
+together to reduce risk while providing incremental value. We'll talk through
+how companies consider embarking on Agile adoption, or seek to expand Agile
+benefits, by building a common foundation of understanding how Agile works. How
+does Agile help everyone--from engineering and developers to product management
+to account and finance--speak the same language. We'll talk through how everyone
+could see their part in an Agile transformation.
+
+Part II
+
+Open Discussion: What Programming Methods Do You Use?
+
+Here we will have a guided discussion of what practices others use while coding.
+Good experiences and bad experiences, working alone versus in teams, are
+practices shared across a company or group or is it every person for themselves.
+
+People coming from the programmers part of the world might have used and
+experience with some of these methods. People coming from a statistical
+background might not be familiar with these terms. If so, there are a lot of
+useful things to be learned.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/220559289/)
+
+### 2015 January 6
+
+**RRO - Revolution's new enhanced open source distribution**
+
+Speaker: Michael Helbraun - Revolution Analytics
+
+Revolution Analytics has recently launched an enhanced open source R distribution that offers:
+- The latest R language engine from the R Foundation for Statistical Computing
+- High-performance R language engine (multi-threaded processing with Intel® Math Kernel Library)
+- 100% Compatibility with all R-related software; CRAN packages, Rstudio, and third-party R integrations
+- Extended capabilities with the Reproducible R Toolkit,
+- Support for Windows, MacOS, and Linux distributions.
+- Open-source (GPLv2) license: free to use!
+
+
+* [Slides and Examples]()
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/219157826/)
+
+### 2014 December 18
+
+**Holiday Happy Hour and Dinner**
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/219146445/)
+
+### 2014 November 18
+
+**testit, testthat and/or testing in general**
+
+Package and Data Testing - Matt Parker
+
+Although most R programmers get their start by writing one-off analysis scripts,
+R is a fantastic tool for building reusable tools, reproducible analyses, and
+automated reports. In this talk, Matt Parker (data analyst at the
+cloud-reporting company Workiva) will discuss using automated tests to develop
+robust, stable functions and to help ensure that dynamic datasets (like scraped
+webpages or the dreaded emailed Excel file) don't change in unexpected ways.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/211663732/)
+
+### 2014 August 5
+
+**Creating an approachable data product with R using shiny and rCharts / Plus +**
+
+Speaker: William Surles
+
+Shiny is a web application framework for R. It allows you to easily turn your
+analyses into an interactive web application. You do not need to write any HTML,
+CSS, or JavaScript. rCharts is an R package that allows you to create
+interactive javascript visualizations form R using simple plotting formulas. In
+this talk I will cover the basics of building your first shiny app with a D3
+visualization. I'll discuss some simple ways to turn an analysis into a powerful
+data product. I will tell some stories of solving major business problems with
+this framework.
+
+* Some references to check out ahead of time
+  * shiny http://shiny.rstudio.com/
+  * shiny examples http://shiny.rstudio.com/gallery/
+  * rCharts http://rcharts.io/
+  * shiny app with rCharts example http://shiny.rstudio.com/gallery/nvd3-line-chart-output.html
+
+* [Slides and Examples](https://github.com/DenverRUG/2014-08-05-github_hot_or_not)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/197135722/)
+
+### 2014 July 1
+
+**dplyr: the next iteration of plyr**
+
+Speaker: Peter DeWitt
+
+dplyr: the next iteration of plyr introduces a 'grammar of data manipulation.'
+This talk will introduce the this grammar while providing examples of the
+increased speed of data manipulation tasks (thanks to the use of Rcpp) and
+improved memory usage (a result of dplyr and improvements in 3.1.0). Also, a
+'piping' operator has been included with dplyr allowing for improvements in
+human readable code and incremental code development.
+
+For new users, plyr ( pronounced plier) is "plyr is a set of tools that solves a
+common set of problems: you need to break a big problem down into manageable
+pieces, operate on each pieces and then put all the pieces back together." It is
+an incredibly useful set of functions that help wrangle data. Pretty much I use
+some of these functions every day.
+
+* [Silge and Examples](https://github.com/DenverRUG/2014-07-01-dplyr-demo)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/187331772/)
+
