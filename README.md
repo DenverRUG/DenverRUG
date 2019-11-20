@@ -8,16 +8,17 @@ Range of Colorado. We welcome R newbies as well as the experience hacker. All
 backgrounds are encouraged to join the group -- life sciences, social sciences,
 etc.
 
-## Upcomming Meetups
+## Upcoming Meetups
 Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming meetups.
 
 ## Past Meetups
 
- | Date              | Topic                                                                         | 
- | :---------------  | :-----------------------------------                                          | 
- | 2019 November 19  | [Reactivity in Shiny Aps](#2019-november-19)                                  | 
- | 2019 October  22  | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22) | 
- | 2019 September 24 | [Propensity Score Methods](#2019-september-24)                                | 
+| Date              | Topic                                                                                          |
+| :---------------  | :-----------------------------------                                                           |
+| 2019 November  19 | [Reactivity in Shiny Aps](#2019-november-19)                                                   |
+| 2019 October   22 | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22)                  |
+| 2019 September 24 | [Propensity Score Methods](#2019-september-24)                                                 |
+| 2019 August     6 | [Quantified Self: R tools for the analysis of personal data to improve health](#2019-august-6) |
 
 ### 2019 November 19
 
