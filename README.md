@@ -30,6 +30,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | November   8 | [Two Talks: 1. Webscraping in R; 2. Accessing databases](#2017-november-8)                     |
 |      | October   11 | [Lightning Talks](#2017-october-11)                                                            |
 |      | August    10 | [kerasR: building neural networks (deep and otherwise) in R using keras)](#2017-august-10)     |
+|      | June      28 | [Introduction to the CPR package and Programmatic Construciton of Calls](#2017-06-28) |
 
 ### 2019 November 19
 
@@ -360,3 +361,35 @@ and drinks.
 * [Video of the talk](https://vimeo.com/229361206)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/241913353/)
 
+### 2017 June 28
+
+**Introduction to the CPR package and Programmatic Construciton of Calls**
+
+Peter DeWitt will be presenting two topics.
+
+First, the cpr (control polygon reduction) R package will be introduced. The cpr
+package provides a set of tools for working with uni- and multi-variable
+B-splines, and most importantly, efficiently finding parsimonious B-spline
+regression models with high quality of fit.
+
+You can get the cpr package from
+https://cran.r-project.org/package=cpr
+or
+https://github.com/dewittpe/cpr/
+
+Discussion of the implementation of the CPR algorithm within the cpr package
+segues into the second topic, programmatic construction and evaluation of calls
+within R. This will highlight
+
+* match.fun()
+* stats::update()
+* formulas, and
+* Environments.
+
+Peter will start his talk around 7:30pm. We'll use the time between 7:00pm and
+7:30pm to socialize and answer generic R questions. After the talk there is
+usually a small group who will head out for a beer and burger. Hope to see you
+at Galvanize.
+
+* [Slides and Examples](https://github.com/DenverRUG/2017-06-28-cpr)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/240713454/)
