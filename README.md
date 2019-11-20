@@ -32,6 +32,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | August    10 | [kerasR: building neural networks (deep and otherwise) in R using keras)](#2017-august-10)     |
 |      | June      28 | [Introduction to the CPR package and Programmatic Construciton of Calls](#2017-june-28)        |
 |      | March     28 | [RStudio Tidyverse](#2017-march-28)                                                            |
+|      | February  20 | [Dave Robinson on tidytext](#2017-february-20) |
 
 ### 2019 November 19
 
@@ -417,3 +418,31 @@ All of the slides and demos are available at: https://github.com/rstudio/meetup_
 And you can play with the demos at: http://roadshow.rstudio.com
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/237419189/)
+
+### 2017 February 20
+
+**Dave Robinson on tidytext**
+
+Title: Tidy Text Mining with R
+
+Abstract: Text data is increasingly important in many domains, but it can be
+challenging to manipulate and visualize within typical R analysis workflows. In
+this talk, I will introduce the tidytext package and show how tidy data
+principles and tools can make text mining easier and more effective, by
+structuring text as one-token-per-row. You'll learn how to manipulate,
+summarize, and visualize text's characteristics using R packages from the tidy
+ecosystem such as dplyr, ggplot2, and tidyr. You'll see case studies of
+sentiment analysis, tf-idf, and topic modeling applied to examples from
+literature, Twitter, and Stack Overflow questions, and gain the tools to draw
+conclusions from your own text datasets.
+
+Bio: David Robinson is a Data Scientist at Stack Overflow, where he analyzes
+data on the world's software developers to help them find answers to their
+programming questions. He is the co-author with Julia Silge of the tidytext
+package and of the upcoming book Text Mining with R, to be published by O'Reilly
+in 2017. He is also the author of the broom, gganimate, and fuzzyjoin packages
+and of the DataCamp course "Exploratory Data Analysis in R: Case Study." He
+writes about R, statistics and education on his blog Variance Explained, as well
+as on Twitter as @drob.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/237219350/)
