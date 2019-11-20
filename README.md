@@ -20,6 +20,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2019 September 24 | [Propensity Score Methods](#2019-september-24)                                                 |
 | 2019 August     6 | [Quantified Self: R tools for the analysis of personal data to improve health](#2019-august-6) |
 | 2019 June      25 | [Sparklyr: Connecting R and Apache Spark](#2019-june-25)                                       |
+| 2019 April     23 | [knitr::spin -- A more dynamic approach to dynamic documents](#2019-april-23)                  |
 
 ### 2019 November 19
 
@@ -108,3 +109,32 @@ machine learning libraries on data that is too big to fit into memory!
 
 * [Slides and Examples](https://github.com/DenverRUG/2019-06-25-Sparklyr)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/262309100/)
+
+### 2019 April 23
+
+**knitr::spin -- A more dynamic approach to dynamic documents**
+
+Building dynamic documents via literate programming is a critical part of
+responsible and reproducible science. Built on a literature programming
+framework, authoring .Rmd, .Rnw, .Rhtml, or other files, uses a markup language
+(markdown, LaTeX, html, ...) as the primary language for the file and the
+analysis/programming language (R, C++, SAS, ...) is a guest language. This
+paradigm has been extremely useful and durable since its formal introduction in
+the book "Literate Programming" Donald Knuth in 1984. R users should be at least
+aware of Sweave and knitr::knit, two R focused literate programming tools.
+
+However, the common method of literate programming is, from the perspective of
+an analysis, backwards. As an analysis my primary language is the analysis
+language and the human readable report is nothing more than detailed code
+comments about the analysis script(s). knitr::spin is the tool needed to use
+literate programming paradigms where the analysis language is the primary
+language for the file(s) and the markup language is the guest language.
+
+This talk will cover the following:
+
+1. Introduction to knitr::spin -- concept and syntax
+2. Simple reports -- that is analysis.R --> analysis.(docx|html|pdf)
+3. Non-trivial reports -- child documents and conditional code evaluation
+
+* [Slides and Examples](https://github.com/DenverRUG/2019-04-23-spin)
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/260632409/)
