@@ -30,7 +30,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | November   8 | [Two Talks: 1. Webscraping in R; 2. Accessing databases](#2017-november-8)                     |
 |      | October   11 | [Lightning Talks](#2017-october-11)                                                            |
 |      | August    10 | [kerasR: building neural networks (deep and otherwise) in R using keras)](#2017-august-10)     |
-|      | June      28 | [Introduction to the CPR package and Programmatic Construciton of Calls](#2017-06-28) |
+|      | June      28 | [Introduction to the CPR package and Programmatic Construciton of Calls](#2017-june-28)        |
 
 ### 2019 November 19
 
