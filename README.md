@@ -22,6 +22,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2019 June      25 | [Sparklyr: Connecting R and Apache Spark](#2019-june-25)                                       |
 | 2019 April     23 | [knitr::spin -- A more dynamic approach to dynamic documents](#2019-april-23)                  |
 | 2018 November  13 | [Two Talks: 1. Natural Language Processing (NLP); 2. Spark and Sparklyr](#2018-november-13) |
+| 2018 October    9 | [Two Talks: 1. R + TensorFlow: GPU-Accelerated Computing; 2. data.table](#2018-october-9) |
 
 ### 2019 November 19
 
@@ -154,3 +155,34 @@ This talk will cover the following:
    streaming.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/255628505/)
+
+### 2018 October 9
+Two talks:
+
+**R + TensorFlow: GPU-Accelerated Computing in the Age of Deep Learning**
+by Matt Hergott
+
+Today’s complex neural networks and large data sets make it difficult or
+impossible to solve problems with traditional computational methods. This talk
+will focus on how we can use R with TensorFlow and graphics processing units
+(GPUs) to achieve our goals in a dramatically accelerated fashion.
+
+Topics covered include: What is GPU computing? Why do we use libraries like
+TensorFlow? What is the relationship between TensorFlow and Keras? What does an
+R + TensorFlow program look like?
+
+Matt Hergott focuses on traditional econometric analysis, deep learning
+architectures, and complex quantitative visualizations through his firm MiaBella
+AI. His GPU programming experience includes the emerging field of 3D holograms,
+and a statistical visualization package he wrote made Microsoft’s top-16 list of
+“noteworthy HoloLens content.”
+
+**data.table package**
+
+by David Heisler
+
+This talk provides an overview of the data.table package including a brief
+history of data.table, basic and some advance syntax and a comparison with
+dplyr.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/255157224/)
