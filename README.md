@@ -31,6 +31,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | October   11 | [Lightning Talks](#2017-october-11)                                                            |
 |      | August    10 | [kerasR: building neural networks (deep and otherwise) in R using keras)](#2017-august-10)     |
 |      | June      28 | [Introduction to the CPR package and Programmatic Construciton of Calls](#2017-june-28)        |
+|      | March     28 | [RStudio Tidyverse](#2017-march-28)                                                            |
 
 ### 2019 November 19
 
@@ -393,3 +394,26 @@ at Galvanize.
 
 * [Slides and Examples](https://github.com/DenverRUG/2017-06-28-cpr)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/240713454/)
+
+### 2017 March 28
+
+**RStudio Tidyverse**
+
+Speakers : Sean Lopp and friends from Rstudio
+
+At RStudio we think about a model for data science that begins with importing
+and tidying data, continues with an iterative cycle of transforming, modelling,
+and visualizing data, and ends with communicating results. We've built tools and
+packages to help you succeed across this cycle: RStudio and Notebooks for
+interactive development, the Tidyverse for making data science easier and more
+effective, and R Markdown, Shiny, and the new RStudio Connect (Pro) for
+communicating results. In this talk we'll share the way we think about data
+science and our toolchain.
+
+Refreshments kindly provided by Rstudio
+
+All of the slides and demos are available at: https://github.com/rstudio/meetup_roadshow
+
+And you can play with the demos at: http://roadshow.rstudio.com
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/237419189/)
