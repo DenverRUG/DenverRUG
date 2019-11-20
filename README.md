@@ -245,30 +245,30 @@ everyone is welcome and there are always new tricks to learn. Talks will begin
 at 7:30.
 
 1. **Loading and writing Data** - Steve Sullivan
-  - save, load
-  - read.table, write.table
-  - read.csv, write.csv
-  - readLines
-  - readline
-  - Only mention: readChar, writeChar, readBin, writeBin
-  - scan
-  - cat==write, paste, sprintf
-  - plots: ggsave, png, pdf
-  - Briefly mention packages: jsonlite, yaml, RSQLite, RMySQL, RPostgreSQL
-  - Resources ...
+   - save, load
+   - read.table, write.table
+   - read.csv, write.csv
+   - readLines
+   - readline
+   - Only mention: readChar, writeChar, readBin, writeBin
+   - scan
+   - cat==write, paste, sprintf
+   - plots: ggsave, png, pdf
+   - Briefly mention packages: jsonlite, yaml, RSQLite, RMySQL, RPostgreSQL
+   - Resources ...
 
 2. **dplyr** - Andy Pickering
-  - piping
-  - The 5 main verbs of dplyr and examples usingdata frames
-  - What the equivalent functions would be in SQL and/or base R
-  - Introduction to the pipe and chaining operations.
-  - Group-by operations and pipe examples.
+   - piping
+   - The 5 main verbs of dplyr and examples usingdata frames
+   - What the equivalent functions would be in SQL and/or base R
+   - Introduction to the pipe and chaining operations.
+   - Group-by operations and pipe examples.
 
 3. **ggplot2** - Leila Afzali - Data Scientist
-  - What is ggplot2 and components of a ggplot2 plot
-  - Briefly discussing installing and loading the package
-  - Go over example(s) showing the usage of ggplot2 for EDA, model diagnostics
-    and result of analysis
+   - What is ggplot2 and components of a ggplot2 plot
+   - Briefly discussing installing and loading the package
+   - Go over example(s) showing the usage of ggplot2 for EDA, model diagnostics
+     and result of analysis
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/243291958/)
 
