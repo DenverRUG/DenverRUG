@@ -74,7 +74,8 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | February  21 | [Bayesian statistics in R](#2012-february-21) |
 |      | January   25 | [R and Big Data - Combined Meetup](#2012-january-25) |
 | 2011 |              | |
-| 2010 | September 14 | [Denver R User Group -- Inaugural Meeting!](#2010-september-14) |
+| 2010 | October   19 | [Applied Spatial Data Analysis using R](#2010-october-19) |
+|      | September 14 | [Denver R User Group -- Inaugural Meeting!](#2010-september-14) |
 
 ### 2019 November 19
 
@@ -1383,6 +1384,33 @@ Denver R User Group and the Boulder/Denver BigData Meetup. He is an avid runner
 and dancer.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/47375072/)
+
+### 2010 October 19
+
+**Applied Spatial Data Analysis using R**
+
+In this talk I will discuss several packages used by Roger Bivand et. al. in his
+book Applied Spatial Data Analysis with R, where I will focus on describing,
+manipulation and plotting spatial objects. My interest in the sp packages
+started when I assisted Dr. James Elsner at FSU teach a class based on the first
+six chapters of Roger's book. While teaching the course, We discovered that many
+interesting data sets could be analyzed using spatial objects.
+
+In this talk I will
+
+1. Discuss the concept of spatial objects such as points, lines and polygons, and how they are described in the sp package.
+2. Demonstrate the usefullness of these packages in a working example analyzing a tornado data set.
+3. Examine the use of S4 tyle classes within the sp package. In particular looking some S4 style commands for exploring these classes (and a given member).
+4. Provide follow on resources for exploring spatial data sets.
+
+The talk does not require any deep understanding of spatial analysis, and no equations or complex mathematics will be discussed in the presentation.
+
+The talk will be given by Dr. Thomas H Jagger. Dr Jagger is a partner in
+Climatek (http://mailer.fsu.edu/~jelsner/climatek/) and is a Research Associate
+(courtesy appointment) in the Department of Geography at Florida State
+Univerity.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/14863343/)
 
 ### 2010 September 14
 
