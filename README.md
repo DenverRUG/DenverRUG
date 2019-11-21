@@ -73,6 +73,8 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | March     20 | [RODBC, RgoogleMaps, twitteR, and RCurl with Ed](#2012-march-20) |
 |      | February  21 | [Bayesian statistics in R](#2012-february-21) |
 |      | January   25 | [R and Big Data - Combined Meetup](#2012-january-25) |
+| 2011 |              | |
+| 2010 | September 14 | [Denver R User Group -- Inaugural Meeting!](#2010-september-14) |
 
 ### 2019 November 19
 
@@ -1382,3 +1384,31 @@ and dancer.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/47375072/)
 
+### 2010 September 14
+
+This is the inaugural meeting for the Denver R User Group. We will take 5-10
+minutes to discuss what the organizers have in mind for this group in terms of
+organization, future plans, etc. This will be followed by a 20 minute talk by
+Ryan Elmore on using R to analyze Major League Baseball data (abstract follows).
+We will dedicate approximately 30 minutes to socializing/networking post-talk.
+After the "formal" meeting on CU-Denver's campus, we will likely head out to a
+bar for a bit more socializing.
+
+Speaker: Ryan Elmore
+
+Title: Using R to Analyze Freely Available Sports Data
+
+Abstract:
+In this talk I will describe several aspects of a data analysis project that I
+recently stumbled into while waiting for a flight at DIA. The analysis was
+motivated by a comment in an article on espn.com
+(http://sports.espn.go.com/espn/page2/story?page=simmons/100729) about how
+people are losing interest in Boston Red Sox baseball games because the games
+are becoming longer. He "proved" his point with about 5-10 data points. I will
+talk about how you can go about downloading baseball data sets from the web and
+how you can use R to analyze/examine the data. In particular, I will introduce
+the basics of ggplot2 to construct some basic figures. Time permitting, I will
+discuss how you can go about sharing your thoughts on and posting code to the
+web.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/szvhpynmblb/)
