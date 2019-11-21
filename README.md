@@ -73,8 +73,18 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | March     20 | [RODBC, RgoogleMaps, twitteR, and RCurl with Ed](#2012-march-20) |
 |      | February  21 | [Bayesian statistics in R](#2012-february-21) |
 |      | January   25 | [R and Big Data - Combined Meetup](#2012-january-25) |
-| 2011 |              | |
-| 2010 | October   19 | [Applied Spatial Data Analysis using R](#2010-october-19) |
+| 2011 | December  13 | [Winter Lightning Talks](#2011-december-13) |
+|      | November  15 | [Intro to the googleVis package](#2011-november-15) |
+|      | October   18 | [Reducing Computational Expense](#2011-october-18) |
+|      | September 14 | [Using GRASS and R for Landscape Regionalization through PAM Cluster Analysis](#2011-september-14) |
+|      | August    24 | [IDE Petting Zoo](#2011-august-24) |
+|      | July      19 | [Using R and Latex](#2011-july-19) |
+|      | May       17 | [R Tools for the Data Science Toolkit Project + Hack Night](#2011-may-17) |
+|      | March     22 | [Interactive Graphics and Data Visualization](#2011-march-22) |
+|      | February  15 | [R in Concert](#2011-february-15) |
+|      | January   18 | [ggplot2 example: ACF plot](#2011-january-18) |
+| 2010 | December   7 | [DRUG Holiday Meetup](#2010-december-7) |
+|      | October   19 | [Applied Spatial Data Analysis using R](#2010-october-19) |
 |      | September 14 | [Denver R User Group -- Inaugural Meeting!](#2010-september-14) |
 
 ### 2019 November 19
@@ -1384,6 +1394,225 @@ Denver R User Group and the Boulder/Denver BigData Meetup. He is an avid runner
 and dancer.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/47375072/)
+
+### 2011 December 13
+
+**Winter Lightning Talks**
+
+Greetings, Rgonauts! Instead of the traditional long-format presentation, we'd
+like to give lightning talks a try in December. This is the perfect opportunity
+to present a favorite trick or obscure package to the group without all the prep
+associated with a longer talk. The only rule is that your talk must not exceed
+five minutes. And it should probably be about R.
+
+Here's the schedule for tonight's meetup:
+* Matt Parker - non-ply functions from the plyr package
+* Brent Pederson - Bioinformatics in R
+* Dave Astling - Bioconductor
+* Theo Van Rooy - R and Google Analytics
+* Ryan Elmore - .Rprofile
+
+Each speaker will have five cruelly-enforced minutes to present, after which
+we'll have five brutally-restricted minutes for questions. Afterward, we'll have
+time for more involved questions and make our way to a nearby venue for food and
+drink. Hope to see you there!
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/43115882/)
+
+### 2011 November 15
+
+**Intro to the googleVis package**
+
+googleVis allows one to create dynamic, interactive graphics for use in
+presentations and on websites. This was inspired by the technology used in Hans
+Rosling's 2006 TED talk on global health.
+(http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html).
+If you haven't seen this video - it is an amazing example of the effective
+communication of statistics through graphics. Hans Rosling used software called
+gapminder. This company was bought by Google who further developed the
+technology.
+
+A search of googleVis will uncover a variety of different types of plots
+available using technology. This talk will focus on the motioncharts - as made
+available in the R library. Essentially, motioncharts are animated and annotated
+scatter plots.
+
+This topic will be presented by Matt Pocernich from Neptune and Co.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/37955312/)
+
+### 2011 October 18
+
+**Reducing Computation Expense**
+
+Our favorite speaker, Peter DeWitt, is back to talk about Reducing Computational
+Expense: Moving From for loops to *apply functions and Multithreading in R. I
+don't know about the rest of you, but I seriously need the info from this talk!
+Even if you know about the rest of the *apply functions, it sounds like there's
+some new advances in multithreading to learn about.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/36337492/)
+
+### 2011 September 14
+
+**Using GRASS and R for Landscape Regionalization through PAM Cluster Analysis**
+
+FOSS4G (Free and Open Source Software for Geospatial) is in town in September,
+and we're borrowing one of their speakers!
+
+Allan Hollander, University of California, Davis will give his talk on Using
+GRASS and R for Landscape Regionalization through PAM Cluster Analysis
+
+Abstract: Landscape regionalization is a frequently encountered need in the
+geographical sciences, having applications ranging from sampling design to
+conservation prioritization. One technique for partitioning the landscape is to
+use cluster analysis of GIS layers describing the area under study. Here I
+present a GIS technique that uses partitioning around medoids as its clustering
+algorithm. Partitioning around medoids (PAM) is a non-hierarchical clustering
+algorithm that is related to the commonly-used k-means clustering technique. PAM
+differs from the k-means algorithm in that a) PAM assigns cluster centroids to
+actual data observations, rather than using values averaged over subsets of the
+entire dataset and b) PAM accepts categorical data as input in addition to
+numerical data. These properties of PAM make it useful for landscape
+regionalization because often one wishes to incorporate categorical variables
+such as vegetation class or soil types in the regionalization. I illustrate the
+PAM technique with several examples of sampling design for local-scale analyses
+of agroecosystems in Northern California. For this work I use GRASS and R,
+generating in GRASS a set of random points covering the study area and
+attributing these points with values from raster and vector layers of interest,
+importing this data table into R for the PAM cluster analysis, and exporting the
+resulting clusters back to GRASS for geographic visualization. Finally, I
+present work on a module using the GRASS Python scripting API to automate this
+process and facilitate the interaction with R in performing the PAM analyses.
+
+Speaker Bio: Allan Hollander is a geographer and research analyst at the
+Information Center for the Environment at the University of California, Davis
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/31712572/)
+
+### 2011 August 24
+
+**IDE Petting Zoo**
+
+Alas, another DenverRUG meeting! This time we're going to bring our laptops,
+open up our favorite software (R), and show off our favorite IDE [1]. We will
+keep it very informal so that people can just walk around and talk about
+editors/R or whatever topic might be of interest. I would imagine that we'll
+have at least one representative from each of the following (popular) editing
+communities: vim, emacs, textmate, etc. If you have a favorite, come along and
+share your thoughts!
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/28392861/)
+
+### 2011 July 19
+
+**Using R and Latex**
+
+After a one-month hiatus, the Denver RUG is back! We are working on a new venue
+for the meetup..."A place where the beer flows like wine" [1]. As an aside, if
+anybody knows someone working at the Tattered Cover in LoDo, let me know.
+Without further ado, here are the details:
+
+Title: Using R and Latex Abstract: My presentation will look at several packages
+and functions available in R that allow users to generate Latex code outputs.
+The presentation will focus on generating Latex tables out of R using mtable,
+apsrtable, outref, etc. I will also provide a brief introduction to Sweave,
+which can be used to produce Latex documents from R.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/23968941/)
+
+### 2011 May 17
+
+**R Tools for the Data Science Toolkit Project + Hack Night**
+
+We're trying something different this month. I am going to talk about the basics
+of accessing external data sources (through a specific API) and several handy R
+functions (existing functions or new ones created by me). The discussion will
+also cover a bit about revision control with github, i.e. the 'social coding'
+website.
+
+The package that I am creating is an R wrapper for the Data Science Toolkit API
+(www.datasciencetoolkit.org (http://www.datasciencetoolkit.org/))...it's in an
+extremely preliminary stage at the moment and likely will be incomplete at the
+time of the meeting. This is where the rest of the group comes in -- we'll spend
+the remaining time either in the room or at the bar contributing to this
+project. The first person to contribute a function to the RDSTK project will get
+a prize....likely a sticker, or 100 stickers, courtesy of Revolution R. No more
+flying monkeys.
+
+If you want to contribute to the project, set up an account on github! My repos
+are at http://www.github.com/rtelmore and I'll put the RDSTK project up there
+soon. You can be an active contributor or just a casual follower. This is a
+lead-in to a future meeting, where we will learn to create R packages. We will
+briefly discuss making a package in this meeting as well.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/17439610/)
+
+### 2011 March 22
+
+**Interactive Graphics and Data Visualization**
+
+User interaction with a graphics device via a mouse click or a press on a
+keyboard can be useful for discovering features of data that might go unnoticed
+if more static graphics are used. In this talk I'll discuss the R function
+getGraphicsEvent(), and show how I'm using it to visualize multivariate,
+spatio-temporal data from a multi-year study of mosquito dynamics in
+Northeastern Colorado.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/16751448/)
+
+### 2011 February 15
+
+**R in Councert**
+
+Speaker: Ethan Brown, he of http://statisfactions.wordpress.com/ fame.
+
+Title: R in Concert
+
+Location: CU 656 on Auraria Campus
+
+Summary:
+
+None of R's 2781 packages did what I wanted--sophisticated sound
+synthesis. But that's no object--R has a lot of tools for connecting R
+to other applications, and for other applications to R. You can pass R
+data to the OS or to another program, run loops in R to do repetitive
+system tasks that are based on R objects, or whatever else you may
+dream of.
+
+I'll explore these tools--including system(), write(), tempfile(), and
+the API--from a beginner's perspective as I present my work in helping
+R to overcome its stage fright and helping it to really sing. Because
+there's no reason our data-rich world needs to be so silent. Using
+sonification--the sound equivalent to visualization--to explore data
+gives us a novel approach and perspective that can spark new insights
+and can give us access to more simultaneous variables when exploring
+multidimensional datasets. So far it's a garbled and goofy song--but
+it's R's song.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/16346099/)
+
+### 2011 January 18
+
+**ggplot2 example: ACF plot**
+
+Peter DeWitt will show an example of creating an ACF plot using ggplot2. We may
+persuade him to show us how he built his presentation in Sweave as well.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/15855243/)
+
+### 2010 December 7
+
+**DRUG Holiday Meetup**
+
+During the last meetup, we decided not to have a talk in December. We'll give it
+a break for a month and get back to it in January! Matt Parker suggested that we
+still meet at a bar and just socialize. So I propose that we meet at the
+Highland Tap and Burger (http://highlandtapdenver.com/) at 7pm on Tuesday, Dec
+7. There will undoubtedly be some R talk, but it will be social for the most
+part.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/15500291/)
 
 ### 2010 October 19
 
