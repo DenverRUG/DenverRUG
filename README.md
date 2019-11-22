@@ -69,6 +69,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 |      | August    28 | [Knitr is better than Sweave](#2012-august-28) |
 |      | July      17 | [GIS data and Maps in R](#2012-july-17) |
 |      | June      19 | [plyr vs base - wrangling data](#2012-june-19) |
+|      | May       23 | [Spring Lightning Talks](#2012-may-23) |
 |      | April     17 | [Bayesian Data Analysis in R](#2012-april-17) |
 |      | March     20 | [RODBC, RgoogleMaps, twitteR, and RCurl with Ed](#2012-march-20) |
 |      | February  21 | [Bayesian statistics in R](#2012-february-21) |
@@ -656,6 +657,8 @@ If you have any additional questions or require further clarification, please, d
    parallelization, but we'll also touch upon some options for implicit
    parallelization as well.
 
+* [2016_08_31 Parallel computing in R.pdf](https://github.com/DenverRUG/meetup-file-archive/blob/master/2016_08_31%20Parallel%20computing%20in%20R.pdf)
+* [embarassingly parallel methods.R](https://github.com/DenverRUG/meetup-file-archive/blob/master/embarassingly%20parallel%20methods.R)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/233224728/)
 
 ### 2016 June 8
@@ -919,7 +922,8 @@ Revolution Analytics has recently launched an enhanced open source R distributio
 - Open-source (GPLv2) license: free to use!
 
 
-* [Slides and Examples]()
+* [2015_01_06 Denver RUG - RRO.pdf](https://github.com/DenverRUG/meetup-file-archive/blob/master/2015_01_06%20Denver%20RUG%20-%20RRO.pdf)
+* [2015_01_06 Denver RUG - RRO example.R](https://github.com/DenverRUG/meetup-file-archive/blob/master/2015_01_06%20Denver%20RUG%20-%20RRO%20example.R)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/219157826/)
 
 ### 2014 December 18
@@ -1197,6 +1201,7 @@ Some background information on this topics can be found at
 Dave Astling will be presenting on setting up an Amazon server instance and the
 pros and cons of such a set up. Running R on the instance will be noted as well.
 
+* [Slides](https://github.com/DenverRUG/meetup-file-archive/blob/master/Amazon%20Cloud%20and%20R.pdf)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/121867722/)
 
 ### 2013 April 16
@@ -1295,6 +1300,7 @@ virtues of Sweave, a framework+markup language for making reproducible reports.
 Peter has switched his allegiance from Sweave to Knitr for these projects, and
 is going to tell us why.
 
+* [Slides and Examples](https://github.com/DenverRUG/meetup-file-archive/blob/master/introToKnitr.zip)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/71871612/)
 
 ### 2012 July 17
@@ -1322,6 +1328,34 @@ plyr or base, please contact Matt by June 7th.
 
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/67269522/)
 
+### 2012 May 23
+
+**Spring Lightning Talks**
+
+Winter Lightning Talks were such fun that we thought we'd do it again for Spring.
+
+*UPDATE* We're full up. Save your talk for next time! If you'd like to give a
+talk, email one of the organizers or use the contact form on the left sidebar of
+the meetup site.
+The only rule is that your talk must not exceed five minutes. And it should probably be about R.
+
+Each speaker will have five cruelly-enforced minutes to present, after which
+we'll have five brutally-restricted minutes for questions.
+
+Speakers, theoretically in order:
+
+* Chris - Integrating JMP and R - Elastic net example
+* Peter DeWitt - library(colorout)
+* Cary - Lattice Graphics
+* Theo Van Rooy - Distributed Computing [slides](https://github.com/DenverRUG/meetup-file-archive/blob/master/SNOW_and_Rgpu_DenverRUG.pdf)
+* Peter DeWitt - Organizing Project files with/for Sweave
+* Matt Pocernich [namespaces](https://github.com/DenverRUG/meetup-file-archive/blob/master/pocernich.namespace.pdf)
+
+Afterward, we'll have time for more involved questions and make our way to a
+nearby venue for food and drink. Hope to see you there!
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/61445262/)
+
 ### 2012 April 17
 
 **Bayesian Data Analysis in R**
@@ -1342,6 +1376,8 @@ open-source OpenBugs and JAGS statistical software packages directly from R. The
 presentation will conclude with a summary of R packages which may be helpful in
 performing Bayesian data analysis.
 
+* [DRUG_BDA_in_R_Code.zip](https://github.com/DenverRUG/meetup-file-archive/blob/master/DRUG_BDA_in_R_Code.zip)
+* [DRUG_Bayesian_in_R.pdf](https://github.com/DenverRUG/meetup-file-archive/blob/master/DRUG_Bayesian_in_R.pdf)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/51862892/)
 
 ### 2012 March 20
@@ -1352,6 +1388,9 @@ Ed Wolfrum will talk about several packages including RODBC, RgoogleMaps, and
 TwitteR. Implicit to the latter two is the RCurl package which handles http/ftp
 requests. Possibly more details will follow.
 
+* [R and the outside world.odp](https://github.com/DenverRUG/meetup-file-archive/blob/master/R%20and%20the%20outside%20world.odp)
+* [RmeetupWolfrum.r](https://github.com/DenverRUG/meetup-file-archive/blob/master/RmeetupWolfrum.r)
+* [RTOTM-Legends2.txt](https://github.com/DenverRUG/meetup-file-archive/blob/master/RTOTM-Legends2.txt)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/54166082/)
 
 ### 2012 February 21
@@ -1393,6 +1432,7 @@ Return Path as a Software Engineer in 2008. Nathan is a member of both the
 Denver R User Group and the Boulder/Denver BigData Meetup. He is an avid runner
 and dancer.
 
+* [Power Point](https://github.com/DenverRUG/meetup-file-archive/blob/master/R%20and%20BigData.ppt)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/47375072/)
 
 ### 2011 December 13
@@ -1406,11 +1446,11 @@ associated with a longer talk. The only rule is that your talk must not exceed
 five minutes. And it should probably be about R.
 
 Here's the schedule for tonight's meetup:
-* Matt Parker - non-ply functions from the plyr package
+* Matt Parker - non-ply functions from the plyr package [example code](https://github.com/DenverRUG/meetup-file-archive/blob/master/non_ply.r)
 * Brent Pederson - Bioinformatics in R
 * Dave Astling - Bioconductor
-* Theo Van Rooy - R and Google Analytics
-* Ryan Elmore - .Rprofile
+* Theo Van Rooy - R and Google Analytics [examples](https://github.com/DenverRUG/meetup-file-archive/blob/master/RGoogleAnalytics_DenverRUG.pdf)
+* Ryan Elmore - .Rprofile [example](https://github.com/DenverRUG/meetup-file-archive/blob/master/rprofile.pdf)
 
 Each speaker will have five cruelly-enforced minutes to present, after which
 we'll have five brutally-restricted minutes for questions. Afterward, we'll have
@@ -1451,6 +1491,7 @@ don't know about the rest of you, but I seriously need the info from this talk!
 Even if you know about the rest of the *apply functions, it sounds like there's
 some new advances in multithreading to learn about.
 
+* [Slides and Examples](https://github.com/DenverRUG/meetup-file-archive/blob/master/EfficientProgramming.zip)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/36337492/)
 
 ### 2011 September 14
@@ -1546,6 +1587,7 @@ soon. You can be an active contributor or just a casual follower. This is a
 lead-in to a future meeting, where we will learn to create R packages. We will
 briefly discuss making a package in this meeting as well.
 
+* [Slides](https://github.com/DenverRUG/meetup-file-archive/blob/master/RDSTK.pdf)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/17439610/)
 
 ### 2011 March 22
@@ -1559,6 +1601,7 @@ getGraphicsEvent(), and show how I'm using it to visualize multivariate,
 spatio-temporal data from a multi-year study of mosquito dynamics in
 Northeastern Colorado.
 
+* [Slides](https://github.com/DenverRUG/meetup-file-archive/blob/master/Interactive_graphics_talk.pdf)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/16751448/)
 
 ### 2011 February 15
@@ -1599,6 +1642,8 @@ it's R's song.
 Peter DeWitt will show an example of creating an ACF plot using ggplot2. We may
 persuade him to show us how he built his presentation in Sweave as well.
 
+* [Slides](https://github.com/DenverRUG/meetup-file-archive/blob/master/ACFinGGPLOT2Presentation.pdf)
+* [Code](https://github.com/DenverRUG/meetup-file-archive/blob/master/ACFinGGPLOT2Presentation.Rnw)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/15855243/)
 
 ### 2010 December 7
@@ -1668,4 +1713,5 @@ the basics of ggplot2 to construct some basic figures. Time permitting, I will
 discuss how you can go about sharing your thoughts on and posting code to the
 web.
 
+* [Slides and Examples](https://github.com/DenverRUG/meetup-file-archive/blob/master/DenverRUG1_091410.pdf)
 * [Meetup Event](https://www.meetup.com/DenverRUG/events/szvhpynmblb/)
