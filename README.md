@@ -15,6 +15,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 
 |      | Date         | Topic                                                                                          |
 | :--- | :----------- | :--------------------------------------------------------------------------------------------- |
+| 2020 | March      9 | [Analyzing large spatial data sets in R](#2020-march-9)                                        |
 | 2019 | November  19 | [Reactivity in Shiny Aps](#2019-november-19)                                                   |
 |      | October   22 | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22)                  |
 |      | September 24 | [Propensity Score Methods](#2019-september-24)                                                 |
@@ -87,6 +88,20 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2010 | December   7 | [DRUG Holiday Meetup](#2010-december-7) |
 |      | October   19 | [Applied Spatial Data Analysis using R](#2010-october-19) |
 |      | September 14 | [Denver R User Group -- Inaugural Meeting!](#2010-september-14) |
+
+### 2020 March 9
+
+**Analyzing large spatial data sets in R**
+
+[Douglas Nychka](https://dnychka.github.io/) presented:
+
+This will be a short tour through the LatticeKrig package. Designed to handle
+monster spatial problems on a laptop.  The trick is to use approximate spatial
+models that focus on the inverse of the covariance matrix (aka precision
+matrix). The precision matrix tends to be sparse and this is exploited for fast
+linear algebra on large matrices.
+
+* [Meetup Event](https://www.meetup.com/DenverRUG/events/268693272/)
 
 ### 2019 November 19
 
