@@ -15,6 +15,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 
 |      | Date         | Topic                                                                                          |
 | :--- | :----------- | :--------------------------------------------------------------------------------------------- |
+| 2022 | July      27 | [Data Manipulation: Comparing Tidyverse, data.table, and Base R](#2022-july-27)                |
 | 2020 | March      9 | [Analyzing large spatial data sets in R](#2020-march-9)                                        |
 | 2019 | November  19 | [Reactivity in Shiny Aps](#2019-november-19)                                                   |
 |      | October   22 | [Two talks: 1. regexp; 2. larger than memory data packages](#2019-october-22)                  |
@@ -88,6 +89,20 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 | 2010 | December   7 | [DRUG Holiday Meetup](#2010-december-7) |
 |      | October   19 | [Applied Spatial Data Analysis using R](#2010-october-19) |
 |      | September 14 | [Denver R User Group -- Inaugural Meeting!](#2010-september-14) |
+
+### 2022 July 27
+**Comparing Tidyverse, data.table, and Base R**
+
+Peter DeWitt, @dewittpe, presented:
+
+In this presentation we will explore the tradeoffs between easy to read syntax, memory use, processing time, and stability over time for three data manipulation dialects in R, the Tidyverse, data.table, and base R. Tidyverse is extremely popular had has a useful syntax but may lack speed and memory efficiency and changes in the api can become difficult to deal with for long term projects. The data.table package is extremely fast and able to handle large data sets but the trade off is an uncommon assignment method (assignment by reference) which is uncommon on the user level within R. Lastly, base R may not be particularly elegant, but is stable and will be supported long term.
+
+Simple examples from importing data, modifying the contents of data, joins (merges), unions (rbinds), and other examples will be shown.
+
+No one dialect is better than the other in all cases. The objective of this presentation is to provide some examples that may help translate between the dialects and to suggest which dialect could be preferable to meet specific objectives.
+
+* [Meetup Event](https://www.meetup.com/denverrug/events/287031620/)
+* [Slides and Examples](https://github.com/DenverRUG/2022-07-27-Data-Manipulation)
 
 ### 2020 March 9
 
