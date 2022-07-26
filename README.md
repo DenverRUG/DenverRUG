@@ -93,7 +93,7 @@ Please refer to the [meetup page](https://www.meetup.com/DenverRUG) for upcoming
 ### 2022 July 27
 **Comparing Tidyverse, data.table, and Base R**
 
-Peter DeWitt, @dewittpe, presented:
+[Peter DeWitt](https://github.com/dewittpe), presented.
 
 In this presentation we will explore the tradeoffs between easy to read syntax, memory use, processing time, and stability over time for three data manipulation dialects in R, the Tidyverse, data.table, and base R. Tidyverse is extremely popular had has a useful syntax but may lack speed and memory efficiency and changes in the api can become difficult to deal with for long term projects. The data.table package is extremely fast and able to handle large data sets but the trade off is an uncommon assignment method (assignment by reference) which is uncommon on the user level within R. Lastly, base R may not be particularly elegant, but is stable and will be supported long term.
 
